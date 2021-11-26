@@ -1,0 +1,15 @@
+.btn{
+    color: blue;
+    width: 10%;
+}
+
+.main-container{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+    img{padding: 20px};
+}
